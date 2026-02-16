@@ -2,9 +2,6 @@
 
 [![Portfolio](https://img.shields.io/website?label=zdkbr1.com&style=for-the-badge&url=https://github.com/ZDKbr1/)](https://github.com/ZDKbr1) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iago-silva-b94656285/) [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31jcxcxwx35fhgm5g6c35weje5cy?si=4b5c82b494324716)
 
-![Iago GitHub stats](https://github-readme-stats.vercel.app/api?username=ZDKbr1&show_icons=true&theme=merko)
-
-
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block"><br/>
